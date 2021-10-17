@@ -1,6 +1,6 @@
 # WeatherDash ☀️
 ### Esse projeto foi realizado em equipe no curso de Desenvolvimento de Sistemas. E o intuito era fazer o consumo de uma  API de clima e usar os dados para montar nosso site de Clima/Tempo. 
-- ### Tecnologias: HTML5, CSS3, JavaScript consumindo API de clima.
+- ### Tecnologias: HTML5, CSS3, JavaScript consumindo API de clima da OpenWeather(https://openweathermap.org/api).
 ### link : https://victorn7.github.io/WeatherDash/index.html
 
 
