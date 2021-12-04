@@ -3,4 +3,4 @@
 - ### Tecnologias: HTML5, CSS3, JavaScript consumindo API de clima da OpenWeather(https://openweathermap.org/api).
 ### Teste agora : [Clique Aqui](https://victorn7.github.io/WeatherDash/})
 
-### -- Minha maior colaboração nesse projeto foi na parte do JavaScript, onde acontece as requisições e respostas da nossa API, e tambem na transição de temas do Menu lateral.  -- 
+- ### Minha maior colaboração nesse projeto foi na parte do JavaScript, onde acontece as requisições e respostas da nossa API, e tambem na transição de temas do Menu lateral.  -- 
