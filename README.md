@@ -1,9 +1,6 @@
-# Meu Portfólio ✨
+# WeatherDash ☀️
+### Esse projeto foi realizado em equipe no curso de Desenvolvimento de Sistemas. E o intuito era fazer o consumo de uma  API de clima e usar os dados para montar nosso site de Clima/Tempo. 
+- ### Tecnologias: HTML5, CSS3, JavaScript consumindo API de clima da OpenWeather(https://openweathermap.org/api).
+### Teste agora : [Clique Aqui](https://victorn7.github.io/WeatherDash/)
 
-### Esse site é destinado para apresentar brevemente os meus projetos, falar um pouco sobre mim, tecnologias que domino e o meu contato caso tenha interesse. 
-
-- ### Tecnologias: HTML5, CSS3, JavaScript
-  
-### Testar: [Clique aqui!](https://victorn7.github.io/Portfolio/)
-
- 
+- ### Minha maior colaboração nesse projeto foi na parte do JavaScript, onde acontece as requisições e respostas da nossa API, e tambem na transição de temas do Menu lateral.  -- 
